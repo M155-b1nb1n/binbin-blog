@@ -1,0 +1,11 @@
+- class_name: "挚友"
+  class_desc: "来视奸这些大手子的blog。"
+  link_list:
+    - name: "roxy"
+      link: "https://roxy5201314.github.io/"
+      avatar: "/binbin-blog/img/zzltx.jpg"
+      descr: "pwn大手子"
+    - name: "lopera"
+      link: "https://albinoredrose-del.github.io/lopera/"
+      avatar: "/binbin-blog/img/nlhtx.jpg"
+      descr: "web大手子"
